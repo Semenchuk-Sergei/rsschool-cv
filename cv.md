@@ -57,7 +57,7 @@ Functional responsibilities:
 * Conducting an audit of information security of critical infrastructure enterprises;
 * Penetration Testing.
 
-**11/11/2017 - 24/02/2019 - Development of the relay protection and automation section on temporary contracts, advising on the implementation of installation and commissioning work in private, taking "HTML Academy" courses. English language learning.**
+**11/11/2017 - 24/02/2019 - Development of the relay protection and automation section on temporary contracts, advising on the implementation of installation and commissioning work in private, taking ["HTML Academy"](https://htmlacademy.ru) courses. English language learning.**
 
 *LLC Energosystemproekt, Minsk.*
 
