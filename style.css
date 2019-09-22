@@ -1,8 +1,36 @@
 body {
     width: 1024px;
-    text-align: center;
+    margin: 0 auto;
 }
 
-h1 {
-    color: green;
+nav:before {
+    content:'';
+    display:block;
+    height: 50px;
+    width: 100%;
+    position: absolute;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 50px;
+}
+
+ul li {
+   float: left;  
+}
+
+ul li a {
+    display: block;
+    height: 50px;
+    padding: 0 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    line-height: 50px;
+}
+
+ul li a:hover {
+    background: red;
 }
