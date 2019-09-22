@@ -10,3 +10,7 @@
 **phone: _+375293834800;_**
 
 **E-mail: _semenchuk.sergei@gmail.com._**
+
+## The purpose
+
+*Application of my professional experience, skills and knowledge in a new direction.*
