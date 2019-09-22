@@ -3,6 +3,9 @@ body {
     margin: 0 auto;
 }
 
+img {
+    text-align: center;
+}
 nav:before {
     content:'';
     display:block;
@@ -11,18 +14,18 @@ nav:before {
     position: absolute;
 }
 
-ul {
+nav ul {
     margin: 0;
     padding: 0;
     list-style: none;
     height: 50px;
 }
 
-ul li {
+nav ul li {
    float: left;  
 }
 
-ul li a {
+nav ul li a {
     display: block;
     height: 50px;
     padding: 0 30px;
