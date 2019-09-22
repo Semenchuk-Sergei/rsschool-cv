@@ -105,3 +105,10 @@ Functional responsibilities:
 * adjustment of project documentation and coordination with the organization operating the facility;
 * commissioning at energy facilities;
 * preparation and approval of acceptance documentation.
+
+## Education
+
+Belarusian National Technical University, Department of Electrical Systems (2000-2005).
+Qualification - Power Engineer.
+
+## English level is _Pre-Intermediate._
